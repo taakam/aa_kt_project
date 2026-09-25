@@ -1,0 +1,1 @@
+from .config_meca500_home import Meca500HomeConfig

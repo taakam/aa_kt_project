@@ -1,0 +1,1 @@
+from .config_meca500_spacemouse import Meca500SpacemouseConfig

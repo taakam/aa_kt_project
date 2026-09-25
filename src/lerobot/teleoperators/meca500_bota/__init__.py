@@ -1,0 +1,1 @@
+from .config_meca500_bota import Meca500BotaConfig

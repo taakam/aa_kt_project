@@ -1,0 +1,1 @@
+from .config_meca500_microscope import Meca500MicroscopeConfig
